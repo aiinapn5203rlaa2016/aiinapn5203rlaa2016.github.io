@@ -1,0 +1,19 @@
+ul li {
+	list-style-type: none;
+	display: inline-block;
+	margin:1%; 
+}
+
+body {
+	background: white;
+	font-family: arial;
+	color: #D358F7;
+}
+
+h1, h2 {
+	color: #BF00FF;
+}
+
+.titol_principal {
+	color: #CC2EFA;
+}
